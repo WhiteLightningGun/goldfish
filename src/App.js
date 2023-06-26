@@ -2,7 +2,8 @@ import React, { useState } from 'react';
 //import ReactDOM from 'react-dom';
 import { AddThoughtForm } from './AddThoughtForm';
 import { Thought } from './Thought';
-import {getNewExpirationTime } from './utilities';
+import { getNewExpirationTime } from './utilities';
+import './App.css';
 
 export default function App() {
   const [thoughts, setThoughts] = useState([
@@ -31,6 +32,7 @@ export default function App() {
 
   return (
     <div className="App">
+      <link rel="stylesheet" href="App.css"></link>
       <header>
         <h1>Goldfish Brain Simulator</h1>
         <p>Experience the 6 second memory of a Goldfish</p>
