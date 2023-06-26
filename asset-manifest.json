@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goldfish/static/css/main.ca3aec5e.css",
+    "main.js": "/goldfish/static/js/main.e6e0c0f3.js",
+    "index.html": "/goldfish/index.html",
+    "main.ca3aec5e.css.map": "/goldfish/static/css/main.ca3aec5e.css.map",
+    "main.e6e0c0f3.js.map": "/goldfish/static/js/main.e6e0c0f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca3aec5e.css",
+    "static/js/main.e6e0c0f3.js"
+  ]
+}
