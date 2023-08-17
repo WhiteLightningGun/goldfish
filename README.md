@@ -1,4 +1,4 @@
-Note to self: Don't delete this
+Note to self: This project was deployed to Github pages with the Create React App tool, which was very useful.
 
 
 # Getting Started with Create React App
